@@ -1,0 +1,6 @@
+{
+  "name": "BancoCorretor CRM",
+  "description": "CRM financeiro completo com consulta robusta de CPF, simulação de bureaus e gestão de leads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
